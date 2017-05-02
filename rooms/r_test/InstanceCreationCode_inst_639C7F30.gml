@@ -1,0 +1,1 @@
+next_room = r_test2;
